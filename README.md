@@ -1,1 +1,1 @@
-# NumberGuesser
+This text-based game requires the player to utilize binary search to successfully guess the number. The default amount of guesses is taken from logBASE2 of the range of numbers selected by the player. For testing purposes, the range was 0-100 and the number of guesses was 7. 
